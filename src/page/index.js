@@ -33,13 +33,13 @@ export default function Index(){
                 <div className="row align-items-center">
                     <div className="col-lg-12">
                         <div className="title-heading mt-5">
-                            <h6 className="sub-title">Looking for a Web & UI Developer !</h6>
+                            <h6 className="sub-title">Looking for a Web Developer !</h6>
                             <h1 className="heading text-primary mb-3">I'm Arun Govindhasamy</h1>
                             <p className="para-desc text-muted">Obviously I'm a Web Designer. Web Developer with over 3 years of experience. Experienced with all stages of the development cycle for dynamic web projects.</p>
                             <div className="mt-4 pt-2">
                                 <Link to="https://www.linkedin.com/in/arun-g-8422a3240/" className="btn btn-primary rounded mb-2 me-2">Hire me</Link>
                                 <a
-  href="https://drive.google.com/file/d/1qckhjgs4BkYhFab-dcA9Z7ug7j0GGkit/view?usp=sharing"
+  href="https://drive.google.com/file/d/1TNR67NzxQGX-ocmSNoKULh3L615fl1ZI/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="btn btn-outline-primary rounded mb-2"
@@ -72,7 +72,7 @@ export default function Index(){
                             <p className="text-muted">Seeking a responsible position to apply my skills and experience in an innovative organization that offers
 opportunities for professional growth.
 </p>
-                            <p className="text-muted">Over 2+ years of experience in front-end technologies, including HTML, CSS, JavaScript, ReactJS, Redux,
+                            <p className="text-muted">Over 3+ years of experience in front-end technologies, including HTML, CSS, JavaScript, ReactJS, Redux,
                             React Router, Bootstrap, Tailwind CSS, Next.js, CMS, and SEO.</p>
                             
                             <img src={sign} height="22" alt=""/>
@@ -212,11 +212,11 @@ opportunities for professional growth.
                             <div className="timeline-item mt-4 wow animated fadeInUp" data-wow-delay="0.5s">
                                 <div className="row">
                                     <div className="col-lg-6 col-md-6 col-sm-6">
-                                        <div className="duration date-label-left border rounded py-2 px-4 position-relative shadow text-start">Nov 2023 - Present</div>
+                                        <div className="duration date-label-left border rounded py-2 px-4 position-relative shadow text-start">Jun 2024 - Present</div>
                                     </div>
                                     <div className="col-lg-6 col-md-6 col-sm-6">
                                         <div className="event event-description-right rounded p-4 border float-left text-start">
-                                            <h5 className="title mb-0 text-capitalize">Web, UI & UX Developer</h5>
+                                            <h5 className="title mb-0 text-capitalize">Web Developer</h5>
                                             <small className="company">Otomatiks & QBee Academy</small>
                                             <p className="timeline-subtitle mt-3 mb-0 text-muted">Experienced Web, UI & UX Developer specializing in React and Next.js for building dynamic, userfriendly web applications.
 Adept in managing all aspects of software development, from design to deployment, ensuring highquality, scalable solutions.
@@ -232,7 +232,7 @@ interfaces.
                                 <div className="row">
                                     <div className="col-lg-6 col-md-6 col-sm-6 order-sm-1 order-2">
                                         <div className="event event-description-left rounded p-4 border float-left text-end">
-                                            <h5 className="title mb-0 text-capitalize">React Developer</h5>
+                                            <h5 className="title mb-0 text-capitalize">Software Developer</h5>
                                             <small className="company">Adventure Technology Solutions Private Limited</small>
                                             <p className="timeline-subtitle mt-3 mb-0 text-muted">Experienced React Developer: Builds dynamic and user-friendly web applications using ReactJS.
 Component Development: Creates reusable and maintainable React components for efficient
@@ -245,7 +245,7 @@ loading, and efficient rendering.
                                         </div>
                                     </div>
                                     <div className="col-lg-6 col-md-6 col-sm-6 order-sm-2 order-1">
-                                        <div className="duration duration-right rounded border py-2 px-4 position-relative shadow text-start">Aug 2021 - Oct 2023</div>
+                                        <div className="duration duration-right rounded border py-2 px-4 position-relative shadow text-start">Aug 2021 - Apr 2024</div>
                                     </div>
                                 </div>
                             </div>

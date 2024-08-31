@@ -5,7 +5,7 @@ import logoLight from '../assets/images/logo-light.png'
 export default function Footer(){
     return(
         <>
-        <footer className="footer bg-dark">
+        <footer className="footer bg-blue">
             <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-12 text-center wow animate__animated animate__fadeInUp" data-wow-delay=".1s">
@@ -24,7 +24,7 @@ export default function Footer(){
                 </div>
             </div>
         </footer>
-        <footer className="footer footer-bar bg-dark wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
+        <footer className="footer footer-bar bg-blue wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
             <div className="container text-foot text-center">
                 <p className="mb-0">© {new Date().getFullYear()} Arun. Design & Develop with <i className="mdi mdi-heart text-danger"></i> <Link to="" target="_blank" className="text-reset">ReactJS</Link>.</p>
             </div>

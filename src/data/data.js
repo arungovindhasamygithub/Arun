@@ -6,6 +6,11 @@ import portfolio3 from '../assets/images/portfolio/3.jpg'
 import portfolio4 from '../assets/images/portfolio/4.jpg'
 import portfolio5 from '../assets/images/portfolio/5.jpg'
 import portfolio6 from '../assets/images/portfolio/6.jpg'
+import portfolio7 from '../assets/images/portfolio/7.jpg'
+import portfolio8 from '../assets/images/portfolio/8.jpg'
+import portfolio9 from '../assets/images/portfolio/9.jpg'
+
+
 
 import client1 from '../assets/images/client/01.jpg'
 import client2 from '../assets/images/client/02.jpg'
@@ -61,19 +66,19 @@ export const portfolioData = [
         category:'Graphic Designer'
     },
     {
-        image: portfolio6,
+        image: portfolio7,
         title: 'Graphic Design',
         name: 'Pamplet',
         category:'Graphic Designer'
     },
     {
-        image: portfolio6,
+        image: portfolio8,
         title: 'photography',
         name: 'Function Photographer',
         category:'Photography'
     },
     {
-        image: portfolio6,
+        image: portfolio9,
         title: 'photography',
         name: 'Travel Photographer',
         category:'Photography'
